@@ -24,7 +24,7 @@ Follow these steps to run the project locally:
 git clone https://github.com/abhishek-coderX/pokemon_memory_game.git
 
 # Navigate to project folder
-cd pokemon_memory_game
+cd vite-project
 
 # Install dependencies
 npm install
