@@ -1,8 +1,40 @@
-# React + Vite
+# Pokemon Memory Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun and interactive memory game built with React!
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+🔗 [Play the Game](https://jovial-sherbet-79dd2f.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🖥️ Tech Stack
+- **Frontend:** React, Vite
+- **Styling:** tailwind
+- **Deployment:** Netlify
+
+## 📜 Features
+- Flip and match Pokémon cards.
+- Timer to track your speed.
+- Scoreboard to keep track of your performance.
+- Responsive design for mobile and desktop.
+
+## 📂 Installation
+Follow these steps to run the project locally:
+
+```sh
+# Clone the repository
+git clone https://github.com/abhishek-coderX/pokemon_memory_game.git
+
+# Navigate to project folder
+cd pokemon_memory_game
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+## 🤝 Contributing
+Feel free to fork the repo and submit pull requests. 🚀
+
+## 📝 License
+This project is open-source. Feel free to use and modify!
